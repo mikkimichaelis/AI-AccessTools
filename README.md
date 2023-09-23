@@ -39,4 +39,6 @@ The technology exists to create such a voice interface.  I believe it's importan
 ## Technology of Note
 
 [Whisper](https://github.com/openai/whisper/tree/main)
+[Whisper Realtime](https://github.com/davabase/whisper_real_time)
 [Puppeteer](https://github.com/puppeteer/puppeteer)
+[PyNode](https://github.com/fridgerator/PyNode)
