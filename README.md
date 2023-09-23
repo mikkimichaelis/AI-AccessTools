@@ -1,12 +1,12 @@
-# OpenAIAutomation
+# AI AccessTools
 
 This software repository is specifically accessibility focused.
 
-OpenAI Automation is an Open Source collection of tools used for AI Automation.  Automation is defined as anything to automate anything. The goal here is to begin collecting resources to help provide services to those in need of automation.
-
+AI AccessTools is an Open Source collection of tools used for AI Automation.  Automation is defined as anything to automate anything. The goal here is to begin collecting resources to help provide services to those in need of automation.  The tools created in this repository will be based on work from other Open Source repositories or custom code.  Here we will simply assemble existing technologies into unique and helpful ways.
 
 ## Ideas for projects here
-### Browser Buddy (whatever)
+
+### Chrome Commander
 
 A voice interface to a NodeJS app which provides a voice interface for interacting with websites.  This is not a 'general' tool in which any website can be voice navigated, the navigation commands will be specific to individual websites.  This allows a tool which becomes much more flexible and easy for the user when at Capital One website the interaction becomes
 
