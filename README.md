@@ -35,3 +35,8 @@ My idea is to open this world of CLI's to the hands free community of the online
 I believe this would open system administration jobs to those utilizing computers in a hands free manner.
 
 The technology exists to create such a voice interface.  I believe it's important here to create and own the 'standard' voice interface to interacting with these commercial CLI's.  Such patented functionality would include interacting with a voice cache - a clipboard on steroids - like oh-my-zsh for the clipboard allowing the user to easily save fragments and use later, easily making voice macros on the fly.
+
+## Technology of Note
+
+[Whisper](https://github.com/openai/whisper/tree/main)
+[Puppeteer](https://github.com/puppeteer/puppeteer)
